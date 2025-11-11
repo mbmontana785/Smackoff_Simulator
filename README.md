@@ -1,3 +1,4 @@
+![Screenshot]()
 
 This is a Streamlit-based simulation of the Smackoff, the annual contest featuring the Jim Rome Show's best callers competing for $5,000 (and a Wingman watch).<br>
 
